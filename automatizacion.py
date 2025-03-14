@@ -1,7 +1,7 @@
 import os
 
 # Ruta de la carpeta que quieres organizar
-carpeta = "C:\\Users\\danahea\\OneDrive - SINOPEC Ecuador\\Desktop\\IT\\ACTAS DE ENTERGA"
+carpeta = "C:\\Users\\xxxxx\\xxxx\\xxx\\xx\\xxx"
 
 
 # Renombrar archivos
